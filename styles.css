@@ -3,16 +3,26 @@ body {
 	font-family: arial;
 }
 
+/* Navigation */
+a{
+	font-size: 24px;
+	color: white;
+	text-decoration: none;
+}
+
 img{
 	widows: 300px;
 }
 
+/* Containers */
 #leftcol{
-	background: rose;
+	background: red;
+	width: 500px;
 }
 
 #rightcol{
 	background: blue;
+	width: 500px;
 }
 
 .round{

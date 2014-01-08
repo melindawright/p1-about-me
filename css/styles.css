@@ -1,3 +1,36 @@
 body {
-	background: #aqua;
+	background: aqua;
+	font-family: arial;
+}
+
+/* Navigation */
+a{
+	font-size: 24px;
+	color: white;
+	text-decoration: none;
+}
+
+img{
+	widows: 300px;
+}
+
+/* Containers */
+#leftcol{
+	background: red;
+	width: 500px;
+	float: left;
+}
+
+#rightcol{
+	background: blue;
+	width: 500px;
+	float: left;
+}
+
+.round{
+	border-right: 20px;
+}
+
+.shadow{
+	box-shadow: 10px 10px 10px black;
 }
