@@ -1,3 +1,8 @@
 body {
-	background: #aqua;
+	background: aqua;
+	font-family: arial;
+}
+
+img{
+	widows: 300px;
 }
