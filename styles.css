@@ -6,3 +6,19 @@ body {
 img{
 	widows: 300px;
 }
+
+#leftcol{
+	background: rose;
+}
+
+#rightcol{
+	background: blue;
+}
+
+.round{
+	border-right: 20px;
+}
+
+.shadow{
+	box-shadow: 10px 10px 10px black;
+}
